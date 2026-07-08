@@ -99,10 +99,8 @@ _Add screenshots of the login page and dashboard here._
 - Undo/redo for destructive actions
 - Dark/light theme toggle
 
+## Deployment
 
-Or build and host the output anywhere that serves a Next.js app:
+This is a static, backend-free Next.js app and deploys cleanly.
 
-```bash
-npm run build
-npm run start
-```
+[kanban-board-tracker.netlify.app](https://kanban-board-tracker.netlify.app/)
