@@ -103,4 +103,4 @@ _Add screenshots of the login page and dashboard here._
 
 This is a static, backend-free Next.js app and deploys cleanly.
 
-[kanban-board-tracker.netlify.app](https://kanban-board-tracker.netlify.app/)
+Demo link: [kanban-board-tracker.netlify.app](https://kanban-board-tracker.netlify.app/)
